@@ -3,9 +3,12 @@ In this project, let's build a **Nxt Trendz - Specific Product Details** app by 
 ### Refer to the website below:
 
 https://NxtTrendzWebs.ccbp.tech
+
+
 **PRIME USER :**
  username: rahul
  password: rahul
+
 
  **NON-PRIME USER:**
   username: raja
