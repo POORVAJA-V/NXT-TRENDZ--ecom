@@ -7,12 +7,14 @@ https://NxtTrendzWebs.ccbp.tech
 
 **PRIME USER :**
  username: rahul
+
  password: rahul
 
 
  **NON-PRIME USER:**
   username: raja
-password: raja@
+
+  password: raja@
 
 ### Design Files
 
