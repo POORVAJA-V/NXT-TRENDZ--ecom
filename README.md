@@ -5,14 +5,16 @@ In this project, let's build a **Nxt Trendz - Specific Product Details** app by 
 https://NxtTrendzWebs.ccbp.tech
 
 
-**PRIME USER :**
+
+_**PRIME USER :**_
  
 username: rahul
 
  password: rahul
 
 
- **NON-PRIME USER:**
+_
+ **NON-PRIME USER:**_
 
   username: raja
 
