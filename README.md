@@ -6,12 +6,14 @@ https://NxtTrendzWebs.ccbp.tech
 
 
 **PRIME USER :**
- username: rahul
+ 
+username: rahul
 
  password: rahul
 
 
  **NON-PRIME USER:**
+
   username: raja
 
   password: raja@
